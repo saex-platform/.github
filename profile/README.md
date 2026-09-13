@@ -14,6 +14,7 @@ SAEX; geliştiricilerin dünya, oyun kuralları, içerik ve arayüzlerini tanım
 | [Dokümantasyon](https://github.com/saex-platform/saex/blob/main/docs/README.md) | Mimari ve geliştirme rehberleri |
 | [Uygulama durumu](https://github.com/saex-platform/saex/blob/main/docs/development/status.md) | Kodlanmış, test edilmiş ve gerçek GTA kanıtı |
 | [Yol haritası](https://github.com/saex-platform/saex/blob/main/docs/roadmap.md) | D1–D5 aşamaları ve kabul kapıları |
+| [Geliştirme panosu](https://github.com/orgs/saex-platform/projects/1) | D1–D3 işleri ve doğrulama durumu |
 | [Katkı](https://github.com/saex-platform/saex/blob/main/CONTRIBUTING.md) | Küçük, doğrulanabilir değişikliklerle katılın |
 
 Oyun taşıması GameNetworkingSockets, asset hattı HTTPS olarak tasarlanır. Geniş oyun geliştirme kontrolü, doğrulanmış capability ve otorite sınırlarıyla açılır. Kaynak kod MIT lisanslıdır; üçüncü taraf bildirimleri ayrıca geçerlidir.
