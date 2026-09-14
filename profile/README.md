@@ -1,6 +1,6 @@
 # SAEX — San Andreas Extended
 
-![SAEX — San Andreas Extended](https://raw.githubusercontent.com/saex-platform/.github/main/profile/saex-banner.svg)
+![SAEX — San Andreas Extended](https://raw.githubusercontent.com/saex-platform/saex/main/docs/branding/saex-banner.svg)
 
 **GTA: San Andreas üzerinde kendi dünyanı ve oyun deneyimini geliştir.**
 
